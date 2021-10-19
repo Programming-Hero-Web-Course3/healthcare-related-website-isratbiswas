@@ -1,0 +1,52 @@
+{
+    "service": [
+        {
+            "id": 1,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWL36La8xsYtdo81hrQIvCLcnNQmBLFPeVAw&usqp=CAU",
+            "name": "Surgery Unit",
+            "description": "Surgery is medical treatment provided through an opening in the body. Traditionally, this meant making a large incision to perform the procedure, but advances in technology allow for making a few small (less than 1 centimeter) incisions and using tiny tools and cameras."
+        },
+        {
+            "id": 2,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTddE75U5VwLncD1edNdx-p258Fakl7AHEDQg&usqp=CAU",
+            "name": "MRI Scan Unit",
+            "description": "Magnetic resonance imaging (MRI) uses a large magnet and radio waves to look at organs and structures inside your body. Healthcare professionals use MRI scans to diagnose a variety fo conditions, from torn ligaments to tumors.MRIs are very useful for examining the brain and spinal cord"
+        },
+        {
+            "id": 3,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST0U_fXiN6N8bn-lILKL-zPu9pEqZE3kvjnA&usqp=CAU",
+            "name": "Ultrasonography Unit",
+            "description": "Ultrasonography is effective used to check for growths and foreign objects that are close to the body's surface, such as those in the thyroid gland , testes and lims, as well as some lymph nodes. Ultrasonography is effectively used to image internal organs."
+        },
+        {
+            "id": 4,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1U4nMLkwMUeHbf69V9ts2K7OO10OMOCnqnQppOHUsQDfPn7jpcTo3qpsJE69GHCDMctI&usqp=CAU",
+            "name": "CT Scan Unit",
+            "description": "CT scans can detect bone and joint problems, like complex bone fractures and tumors. If you have a condition like cancer, heart disease, emphysema, or live masses, CT scans can spot it or help doctors see any changes."
+        },
+        {
+            "id": 5,
+            "img": "https://www.dhaendoscopy.com/images/3endoscopy.jpg",
+            "name": "Endoscopy Unit",
+            "description": "An endoscopy can detect polyps (benign and precancerous) as well as cancerous tumors. It can also identify the presence of ulcers, inflammation and other damage to the wall of the intestines or stomach. An upper GI endoscopy can determine the cause of heartburn, chest pain and problems swallowing your food."
+        },
+        {
+            "id": 6,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHOU6CNi8Hb0HsRf0qb8ZpbOemNVqtt5PnA&usqp=CAU",
+            "name": "Dialysis Unit",
+            "description": "While kidney failure is often permanent – beginning as chronic kidney disease and progressing to end-stage kidney disease – it can be temporary. If one experiences acute kidney failure, dialysis is only necessary until the body responds to treatment and the kidneys are repaired. In these cases, dialysis is temporary."
+        },
+        {
+            "id": 7,
+            "img": "https://previews.123rf.com/images/morganka/morganka1511/morganka151100038/47974412-female-medicine-doctor-prescribing-pills-to-her-male-patient-healthcare-medical-and-pharmacy-concept.jpg",
+            "name": "Medicine & Diabetes Unit",
+            "description": "Treatment of all type of infectious diseases such as Dengue fever, Typhoid fever, Malaria, Kalaazor, Meningities, Hepatitis, Tuberculosis etc.Treatment of diabetes and its complications"
+        },
+        {
+            "id": 8,
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr_nI9mZNIIIphN-hCA7UlQOJ3fHagHHv6KQ&usqp=CAU",
+            "name": "Ambulance Service",
+            "description": "24 hours ambulance service. we are try our best services for your. "
+        }
+    ]
+}

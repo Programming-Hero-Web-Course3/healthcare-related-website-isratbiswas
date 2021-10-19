@@ -1,0 +1,7 @@
+.service-container{
+    border-radius: 5px;
+    box-shadow: 5px;
+}
+.service-container img{
+    height: 25rem;
+}
