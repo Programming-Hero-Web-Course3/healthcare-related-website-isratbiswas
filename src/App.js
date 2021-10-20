@@ -22,6 +22,9 @@ function App() {
       <BrowserRouter>
         <Navber></Navber>
         <Switch>
+          <Route exact path="/">
+            <Home></Home>
+          </Route>
           <Route path="/home">
             <Home></Home>
           </Route>
