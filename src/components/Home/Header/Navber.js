@@ -20,7 +20,7 @@ const Navber = () => {
                             <Nav.Link as={Link} to="/signup">Sign Up</Nav.Link>
                             {user.email ?
                                 <Button onClick={logOut} variant="light">Log Out</Button> :
-                                <Nav.Link as={Link} to="/login/home" className="text-light fw-bold">Login</Nav.Link>
+                                <Nav.Link as={Link} to="/login/home" >Login</Nav.Link>
                             }
                             <Navbar.Text>
                                 Signed in as: <a href="#login">{user?.displayName}</a>
